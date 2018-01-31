@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Codepress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-31 11:22+0000\n"
+"PO-Revision-Date: 2018-01-31 11:23+0000\n"
+"Last-Translator: Gabriel Masson <contato.gabrielmasson@gmail.com>\n"
+"Language-Team: Portuguese (Brazil)\n"
+"Language: pt-BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: pages/home.php:3
+msgid ""
+"Codepress is a development foundation for programmers to start Wordpress "
+"plugins in a simpler way without reinventing the wheel."
+msgstr ""
+"Codepress é uma base de desenvolvimento para programadores iniciar plugins "
+"do Wordpress de forma mais simples, sem reinventar a roda."
+
+#: pages/home.php:9
+msgid "Github"
+msgstr "Github"
+
+#: pages/home.php:15
+msgid "Report a bug"
+msgstr "Reportar Erro"
+
+#: pages/home.php:24
+msgid "By"
+msgstr "Por"
+
+#: pages/home.php:26
+msgid "and community"
+msgstr "e comunidade"
+
+#. Name of the plugin
+msgid "Codepress"
+msgstr "Codepress"
+
+#. Description of the plugin
+msgid "Plugin base for Wordpress plugin development"
+msgstr "Base para o desenvolvimento de plugin Wordpress"
+
+#. URI of the plugin
+msgid "https://gmasson.github.io/codepress"
+msgstr "https://gmasson.github.io/codepress"
+
+#. Author of the plugin
+msgid "Gabriel Masson"
+msgstr "Gabriel Masson"
+
+#. Author URI of the plugin
+msgid "https://gmasson.github.io/"
+msgstr "https://gmasson.github.io/"
